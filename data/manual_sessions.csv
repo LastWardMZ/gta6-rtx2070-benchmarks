@@ -1,0 +1,13 @@
+project,configuration,pcie,fps,ram_gb,vram_gb,notes
+cool_fox,Stock Series S,x2,2.3-2.4,,,prologue
+cool_fox,FSR4 network skipped,x2,6.3,,,prologue
+cool_fox,FSR4 replaced by a plain upscale,x2,7.0,,,prologue
+cool_fox,Previous + async submit,x2,7.7,,,prologue
+cool_fox,256 px texture cap at 1080p,x2,7.2,19.3,6.2,4 minutes in the world; peak 9.7
+cool_fox,256 px texture cap at 720p,x2,~10,18.2,6.3,scenes of 3000-4500 draws (7.0 at 1080p)
+cool_fox,256 px texture cap at 720p (very heavy scene),x16,6.9,,,about 8100 draws; before the two final settings
+Belobug,Unmodified a-publier branch with its own launcher,x2,~1,27.1,7.7,still building pipelines
+Belobug,"Series S, 720p, title's upscaler, 256 px textures",x2,2-2.5,23.6,6.9,
+Belobug,Light mode + the two final settings,x16,0.8,,,automated run; about 10400 draws
+Belobug,Previous + 5 renderer patches (warm-up),x16,0.8,,,invalid: still building pipelines
+Kelvaroq,First session on Series X,x2,2-3,15,,during first-time compilation

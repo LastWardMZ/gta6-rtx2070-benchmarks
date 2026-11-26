@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="Video memory in use (GB)">
+<rect width="880" height="240" rx="8" fill="#fcfcfb"/>
+<text x="20" y="30" fill="#0b0b0b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="17" font-weight="600" text-anchor="start">Video memory in use (GB)</text>
+<text x="20" y="52" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="400" text-anchor="start">As reported by nvidia-smi, other apps included · the card has 8 GB · lower is better</text>
+<line x1="290.0" y1="70" x2="290.0" y2="206" stroke="#c3c2b7" stroke-width="1"/>
+<text x="290.0" y="224" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="400" text-anchor="middle">0</text>
+<line x1="415.0" y1="70" x2="415.0" y2="206" stroke="#e1e0d9" stroke-width="1"/>
+<text x="415.0" y="224" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="400" text-anchor="middle">2</text>
+<line x1="540.0" y1="70" x2="540.0" y2="206" stroke="#e1e0d9" stroke-width="1"/>
+<text x="540.0" y="224" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="400" text-anchor="middle">4</text>
+<line x1="665.0" y1="70" x2="665.0" y2="206" stroke="#e1e0d9" stroke-width="1"/>
+<text x="665.0" y="224" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="400" text-anchor="middle">6</text>
+<line x1="790.0" y1="70" x2="790.0" y2="206" stroke="#e1e0d9" stroke-width="1"/>
+<text x="790.0" y="224" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="400" text-anchor="middle">8</text>
+<text x="280" y="91.0" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="400" text-anchor="end">Belobug, unmodified</text>
+<path d="M290,78h477.25a4,4 0 0 1 4,4v10a4,4 0 0 1 -4,4h-477.25z" fill="#2a78d6"><title>Belobug, unmodified: 7.7 GB</title></path>
+<text x="777.25" y="91" fill="#0b0b0b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">7.7 GB</text>
+<text x="280" y="125.0" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="400" text-anchor="end">Belobug, light mode</text>
+<path d="M290,112h427.25a4,4 0 0 1 4,4v10a4,4 0 0 1 -4,4h-427.25z" fill="#2a78d6"><title>Belobug, light mode: 6.9 GB</title></path>
+<text x="727.25" y="125" fill="#0b0b0b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">6.9 GB</text>
+<text x="280" y="159.0" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="400" text-anchor="end">cool_fox, 256 px textures, 1080p</text>
+<path d="M290,146h383.5a4,4 0 0 1 4,4v10a4,4 0 0 1 -4,4h-383.5z" fill="#2a78d6"><title>cool_fox, 256 px textures, 1080p: 6.2 GB</title></path>
+<text x="683.5" y="159" fill="#0b0b0b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">6.2 GB</text>
+<text x="280" y="193.0" fill="#52514e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="400" text-anchor="end">cool_fox, 256 px textures, 720p</text>
+<path d="M290,180h389.75a4,4 0 0 1 4,4v10a4,4 0 0 1 -4,4h-389.75z" fill="#2a78d6"><title>cool_fox, 256 px textures, 720p: 6.3 GB</title></path>
+<text x="689.75" y="193" fill="#0b0b0b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">6.3 GB</text>
+</svg>
